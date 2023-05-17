@@ -17,3 +17,6 @@ Tableau  for creating a dashboard for the sales data of the store.
 
 ### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
+
+### Data Visualization
+The dashboard with full interactivity in present on [TableauPublic](https://public.tableau.com/app/profile/sankalp.sachan/viz/SuperStoreSalesCaseStudy/RegionalSalesProfitabilityDashboard)
